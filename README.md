@@ -1,2 +1,2 @@
-# project
+# weather app
 This is the weather-app
